@@ -16,9 +16,9 @@ sklearn
 ```
 
 ## Forgery ADE dataset
-Google Drive: ```https://drive.google.com/file/d/1SbWsxbzfi7H3YrdaSyYKV4ZkPf_MRnqH/view?usp=sharing```
+Google Drive: https://drive.google.com/file/d/1SbWsxbzfi7H3YrdaSyYKV4ZkPf_MRnqH/view?usp=sharing
 ## Train
 ```python train.py```
 ## Test
-1. We provided a trained weight:https://pan.baidu.com/s/1bd2j5ud1RWHOTHBJzEheBw?pwd=tbnr
+1. We provided a trained weight: https://pan.baidu.com/s/1bd2j5ud1RWHOTHBJzEheBw?pwd=tbnr
 2.  ```python test.py```
