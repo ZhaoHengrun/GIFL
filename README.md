@@ -1,4 +1,5 @@
 # Learning Universal Features for Generalizable Image Forgery Localization
+https://arxiv.org/abs/2504.07462
 
 ## Requirements
 ```pip install -r requirements.txt```
